@@ -1,1 +1,1 @@
-echo "hello jenkins"
+echo "hello from jenkins"
